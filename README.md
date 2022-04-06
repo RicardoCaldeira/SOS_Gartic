@@ -1,2 +1,2 @@
 # SOS_Gartic
-Api para auxílio no Gartic.io
+Api para auxílio no gartic.io
