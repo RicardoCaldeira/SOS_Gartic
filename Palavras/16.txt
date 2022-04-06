@@ -1,0 +1,9 @@
+abridor de garrafa,antena parabólica,apontador de lápis,assistente social,
+bolo de brigadeiro,cachorro-vinagre,cadeira de balanço,cadeira elétrica,
+carrinho de rolimã,cartão telefônico,chapinha de cabelo,cinto de segurança,
+coração de galinha,corrida de cavalos,cuidador de idosos,curvador de cílios,
+dança das cadeiras,detector de fumaça,detector de metais,dragão-de-komodo,
+esfigmomanômetro,espremedor de alho,estatueta do oscar,fogos de artifício,
+futebol americano,jogador de futebol,máquina de costura,
+marcador de página,máscara cirúrgica,mousse de maracujá,nado sincronizado,
+rolinho primavera,ventilador de teto
